@@ -1,0 +1,17 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html, body, .container-fluid, .main { height: 100%; }
+
+h2,nav a, .lead{	color: #FFFFFF; }
+
+body { background-color: #F0F0F0; } 
+
+.span3 { background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=") repeat scroll 0 0 #222; height: 100%; text-align: right; }
+
+.container-fluid { padding-left: 0; }
+
+.span9 { height: 100%; }
+
+.charts svg { background-color: #FFFFFF; border: 1px solid #D9D9D9; }
